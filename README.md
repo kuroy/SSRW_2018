@@ -28,6 +28,7 @@
 ## Result in my environment
 * Step1
 <img src="VAE_generated_mouse.png">
+
 * Step2
 <img src="VAE_hiddenvar_timeseries.png">
 
