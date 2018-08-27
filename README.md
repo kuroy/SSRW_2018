@@ -1,5 +1,5 @@
 # SSRW_2018
-## Codes for Competition SSRW2018 which was held by saitoh@kyutech.ac.jp
+## Codes for Competition SSRW2018 which was held by saitoh,kyutech.ac.jp
 
 * Info of the competition(Japanese) : [SSRW2018](http://www.slab.ces.kyutech.ac.jp/SSRW2018/competition.html)
   * Split 25 class to detect which the Japanese-word speakers says
